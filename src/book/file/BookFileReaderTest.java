@@ -77,7 +77,6 @@ class BookFileReaderTest {
 				"BOOK ONE: 1805",
 				"CHAPTER I",
 				"CHAPTER II"
-
 		};
 		List<String> expectedNext10WarAndPeace = new ArrayList<String>(Arrays.asList(expectedNext10WarAndPeaceArray));
 
